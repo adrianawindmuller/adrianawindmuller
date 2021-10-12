@@ -58,6 +58,8 @@ Como autodidata, obtive a maior parte do meu conhecimento por meio de cursos onl
 
 <img alt="SQLServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
+<img alt="xunit" src="https://img.shields.io/badge/xUnit-lightgrey?style=for-the-badge" />
+
 </div>
 
 ### **DevOps:**

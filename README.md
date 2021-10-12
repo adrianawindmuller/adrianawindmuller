@@ -1,7 +1,8 @@
 ## Oi, eu sou Adriana Windmuller <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="olá" >
 
 ---
-Comecei na área de Desenvolvimento Full Stack há 1 ano e meio atrás.
+
+Comecei na área de Desenvolvimento há 1 ano e meio atrás.
 
 Como autodidata, obtive a maior parte do meu conhecimento por meio de cursos online e artigos.
 
@@ -23,8 +24,6 @@ Como autodidata, obtive a maior parte do meu conhecimento por meio de cursos onl
 ---
 
 ## **Este é meu conjunto de Skills**
-
-<br>
 
 ### **Front-end:**
 

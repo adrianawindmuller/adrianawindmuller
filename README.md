@@ -6,7 +6,7 @@ Como autodidata, obtive a maior parte do meu conhecimento por meio de cursos onl
 
 ### **Resumo:**
 
-- 🚀 Sou desenvolvedora Full Stack Júnior.</b>
+- 🚀 Sou desenvolvedora Full-Stack Jr.</b>
 - 🌱 Atualmente estou estudando <b>ASP.net, C# e Angular.</b>
 - ⚡ Tenho um ótimo conhecimento em design e UX.
 

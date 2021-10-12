@@ -10,8 +10,6 @@ Como autodidata, obtive a maior parte do meu conhecimento por meio de cursos onl
 - 🌱 Atualmente estou estudando <b>ASP.net, C# e Angular.</b>
 - ⚡ Tenho um ótimo conhecimento em design e UX.
 
-<br>
-
 ## **Conecte-se comigo**
 
 <a href="https://www.linkedin.com/in/adrianawindmuller/">

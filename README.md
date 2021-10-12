@@ -10,7 +10,7 @@ Como autodidata, obtive a maior parte do meu conhecimento por meio de cursos onl
 - 🌱 Atualmente estou estudando <b>ASP.net, C# e Angular.</b>
 - ⚡ Tenho um ótimo conhecimento em design e UX.
 
----
+<br>
 
 ## **Conecte-se comigo**
 
@@ -18,8 +18,8 @@ Como autodidata, obtive a maior parte do meu conhecimento por meio de cursos onl
 <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <br>
+<br>
 
----
 
 ## **Este é meu conjunto de Skills**
 
@@ -73,7 +73,6 @@ Como autodidata, obtive a maior parte do meu conhecimento por meio de cursos onl
 </div>
 <br>
 
----
 
 ## **Estatísticas do Github**
 

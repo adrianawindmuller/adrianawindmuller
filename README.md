@@ -1,6 +1,4 @@
-## Oi, eu sou Adriana Windmuller <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="olá" >
-
----
+# Oi, eu sou Adriana Windmuller <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="olá" >
 
 Comecei na área de Desenvolvimento há 1 ano e meio atrás.
 

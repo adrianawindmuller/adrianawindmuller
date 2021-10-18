@@ -1,14 +1,12 @@
 # Oi, eu sou Adriana Windmuller <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="olá" >
 
-Comecei na área de Desenvolvimento há 1 ano e meio atrás.
-
-Como autodidata, obtive a maior parte do meu conhecimento por meio de cursos online e artigos.
+Comecei meus estudos na área do Desenvolvimento Full-Stack em 2020, ao longo deste tempo fui criando repositórios para colocar em prática os conhecimentos que eu obtive.
 
 ### **Resumo:**
 
-- 🚀 Sou desenvolvedora Full-Stack Jr.</b>
+- 🚀 Sou desenvolvedora Full-Stack Jr em Angular/ASP.net
 - 🌱 Atualmente estou estudando <b>ASP.net, C# e Angular.</b>
-- ⚡ Tenho um ótimo conhecimento em design e UX.
+- ⚡ Tenho um ótimo conhecimento em UX.
 
 ## **Conecte-se comigo**
 
@@ -17,7 +15,6 @@ Como autodidata, obtive a maior parte do meu conhecimento por meio de cursos onl
 </a>
 <br>
 <br>
-
 
 ## **Este é meu conjunto de Skills**
 
@@ -34,8 +31,6 @@ Como autodidata, obtive a maior parte do meu conhecimento por meio de cursos onl
 
 <img alt="typecript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
-<img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-
 <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
 <img alt="blazor" src="https://img.shields.io/badge/BLAZOR-purple?style=for-the-badge&logo=blazor" />
@@ -49,8 +44,6 @@ Como autodidata, obtive a maior parte do meu conhecimento por meio de cursos onl
 
 <div>
 <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-
-<img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 
 <img alt="asp-net" src="https://img.shields.io/badge/ASP.NET-blue?style=for-the-badge" />
 
@@ -70,7 +63,6 @@ Como autodidata, obtive a maior parte do meu conhecimento por meio de cursos onl
 <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 <br>
-
 
 ## **Estatísticas do Github**
 

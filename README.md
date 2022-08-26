@@ -1,11 +1,7 @@
 # Oi, eu sou Adriana Windmuller <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="olá" >
 
-Comecei meus estudos na área do Desenvolvimento Full-Stack em 2020, ao longo deste tempo fui criando repositórios para colocar em prática os conhecimentos que eu obtive.
-
-### **Resumo:**
-
-- 🚀 Sou desenvolvedora Full-Stack Jr em Angular/ASP.net
-- 🌱 Atualmente estou estudando <b>ASP.net, C# e Angular.</b>
+- 🚀 Sou desenvolvedora Full-Stack Jr em Blazor/ASP.net
+- 🌱 Atualmente estou estudando <b>ASP.net, C# e Blazor.</b>
 - ⚡ Tenho um ótimo conhecimento em UX.
 
 ## **Conecte-se comigo**
@@ -21,19 +17,16 @@ Comecei meus estudos na área do Desenvolvimento Full-Stack em 2020, ao longo de
 ### **Front-end:**
 
 <div>
+<img alt="blazor" src="https://img.shields.io/badge/BLAZOR-purple?style=for-the-badge&logo=blazor" />
+  
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <img alt="typecript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
-<img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-
-<img alt="blazor" src="https://img.shields.io/badge/BLAZOR-purple?style=for-the-badge&logo=blazor" />
 
 <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
@@ -51,6 +44,8 @@ Comecei meus estudos na área do Desenvolvimento Full-Stack em 2020, ao longo de
 
 <img alt="xunit" src="https://img.shields.io/badge/xUnit-lightgrey?style=for-the-badge" />
 
+<img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
 </div>
 
 ### **DevOps:**
@@ -60,6 +55,8 @@ Comecei meus estudos na área do Desenvolvimento Full-Stack em 2020, ao longo de
 
 <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
+<img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+ 
 <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 <br>

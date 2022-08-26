@@ -3,6 +3,7 @@
 - 🚀 Sou desenvolvedora Full-Stack Jr em Blazor/ASP.net
 - 🌱 Atualmente estou estudando <b>ASP.net, C# e Blazor.</b>
 - ⚡ Tenho um ótimo conhecimento em UX.
+- 🤟 Amo Death Metal e games. 
 
 ## **Conecte-se comigo**
 

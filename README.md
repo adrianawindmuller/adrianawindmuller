@@ -2,7 +2,6 @@
 
 - 🚀 Sou desenvolvedora Blazor/ASP.net
 - 🌱 Atualmente estou estudando ASP.net, C# e Blazor.
-- ⚡ Tenho um bom conhecimento em UX.
 - 🤟 Amo Death Metal e games.
 
 ## **Conecte-se comigo**
